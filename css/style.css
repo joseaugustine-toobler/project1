@@ -14,9 +14,7 @@ body{
 input {
     width: 100%;
 }
-=======
-<<<<<<< HEAD
-	color:green;
+
 	fontdasda-size:35px;
 <<hello everynoneasdasdasd asfa sfasd
 }ZX
@@ -27,15 +25,6 @@ input {
 	background-color: blue;
 }
 a
->>>>>>> 21b30a55dcaeddaa8b4cab1aec23c051ef031700
->>>>>>> 8aa4e6dfb22ac3e1aad5923232c9b45b2ddd3240
-<<<<<<< HEAD
->>>>>>> fced3937178206901744d60151559033bf79a286
-=======
->>>>>>> fef8bea334137d502a59ea1f408cccffc332b1b0
-<<<<<<< HEAD
->>>>>>> ff21bf64dd3f64168ccb7c7400f26a406e9d46d8
-=======
 
 
 
@@ -57,10 +46,4 @@ input[type=text] {
     box-sizing: border-box;
 }
 
-input[type=text] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-}
->>>>>>> 114b8fad8b04286b118729007372fa7d204672c1
+
