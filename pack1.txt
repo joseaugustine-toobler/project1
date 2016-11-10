@@ -1,7 +1,18 @@
+
 hnbhjh sujith mathew
 
 function medha()
 {
 echo (a+b);
 }
-dfdf
+
+dfsdfgdfhgdfcgdfg
+function medha()
+{
+a-b;
+}
+function hello()
+{
+a-g;
+}
+
