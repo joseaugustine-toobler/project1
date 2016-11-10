@@ -25,3 +25,23 @@ a
 >>>>>>> 21b30a55dcaeddaa8b4cab1aec23c051ef031700
 >>>>>>> 8aa4e6dfb22ac3e1aad5923232c9b45b2ddd3240
 >>>>>>> fef8bea334137d502a59ea1f408cccffc332b1b0
+
+
+
+
+
+
+
+
+input {
+    width: 100%;
+}
+
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
