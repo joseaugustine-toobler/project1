@@ -1,3 +1,11 @@
 hnbhjh 
 
 dfsdfgdfhgdfcgdfg
+function medha()
+{
+a-b;
+}
+function hello()
+{
+a-g;
+}
