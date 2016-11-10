@@ -1,3 +1,18 @@
-hnbhjh 
+
+hnbhjh sujith mathew
+
+function medha()
+{
+echo (a+b);
+}
 
 dfsdfgdfhgdfcgdfg
+function medha()
+{
+a-b;
+}
+function hello()
+{
+a-g;
+}
+
