@@ -33,4 +33,34 @@ a
 >>>>>>> fced3937178206901744d60151559033bf79a286
 =======
 >>>>>>> fef8bea334137d502a59ea1f408cccffc332b1b0
+<<<<<<< HEAD
 >>>>>>> ff21bf64dd3f64168ccb7c7400f26a406e9d46d8
+=======
+
+
+
+
+
+
+
+
+input {
+    width: 100%;
+}
+
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+>>>>>>> 114b8fad8b04286b118729007372fa7d204672c1
